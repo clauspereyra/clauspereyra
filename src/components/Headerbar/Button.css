@@ -1,0 +1,53 @@
+:root {
+    --primary: #444444;
+  }
+  
+  .btn {
+    padding: 15px 30px;
+    border-radius: 2px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .btn--primary {
+    background-color: var(--primary);
+    color: #242424;
+    border: 1px solid var(--primary);
+  }
+  
+  .btn--outline {
+    background-color: transparent;
+    color: #444444;
+    padding: 25px 40px;
+    border: 3px solid var(--primary);
+    transition: all 0.3s ease-out;
+    font-family: 'Encode Sans Expanded', sans-serif;
+    letter-spacing: 3px;
+    font-weight: 600;
+    width: 300px;
+    font-size: 16px !important;
+    position: relative;
+    top: -8px;
+    border-radius: 8px;
+  }
+  
+  
+  .btn--medium {
+    padding: 15px 20px;
+    font-size: 16px;
+  }
+  
+  .btn--large {
+    padding: 12px 26px;
+    font-size: 16px;
+  }
+  
+  .btn--large:hover,
+  .btn--medium:hover {
+    transition: all 0.3s ease-out;
+    background: #fff;
+    color: #f99d27;
+    transition: 250ms;
+    border: 3px solid #f99d27;
+  }

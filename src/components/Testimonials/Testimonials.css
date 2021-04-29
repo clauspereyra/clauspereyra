@@ -1,0 +1,411 @@
+@media (min-width: 960px) {
+
+    .testimonials .slidebox {
+        width: 100%;        
+        background-color: #ffffff;
+        font-family: 'Open Sans', sans-serif;
+        
+    }
+
+    .testimonials {        
+        width: 100%;        
+        background-color: #ffffff;
+        padding-top: 100px;
+        padding-bottom: 260px;
+        font-family: 'Open Sans', sans-serif;
+        
+       
+        
+    }
+
+    .testimonials .carousel.slide {
+        width: 100%;        
+        overflow: visible !important;
+        background-color: #ffffff !important;
+        padding-top: 60px;
+        font-family: 'Open Sans', sans-serif;
+        
+        
+        
+    }
+
+    
+
+.carousel {
+    padding: 0px 0px 0px 0px;  
+    background-color: #ffffff; 
+    font-family: 'Open Sans', sans-serif;
+ 
+    
+}
+
+
+.testimonials .box-item {
+    display: inline-block;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    margin: 0px auto;
+    font-family: 'Open Sans', sans-serif;
+    
+    
+    
+}
+
+.testimonials .carousel-item {
+
+    position: relative; 
+    top: -80px; 
+    font-family: 'Open Sans', sans-serif;
+      
+}
+
+.testimonials .w-100 {
+    width: 100% !important;
+    height: auto;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.testimonials .d-block {
+    display: block!important;
+    height: auto;
+    font-family: 'Open Sans', sans-serif;
+}
+.testimonials .carousel-caption {
+    position: absolute;
+    right: 15%;
+    top: 15%;
+    left: 15%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #000000 !important;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.testimonials h1 {
+  
+    font-weight: 700 !important;
+    line-height: 48px;
+    font-size: 48px;
+    margin-bottom: 24px;
+    font-family: 'Open Sans', sans-serif;
+    
+
+ }
+  
+.testimonials h1 span {
+    
+    font-weight: 700 !important;
+    line-height: 48px;
+    font-size: 48px;
+    padding-bottom: 20px;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+.testimonials .separator {
+    margin: 0px auto;
+    text-align: center;
+    width: 300px;
+    height: 3px;
+    background-color: #444444;
+    border-bottom: 2px solid #444444 ;
+    margin-bottom:24px;
+   }
+
+.testimonials .carousel-caption h4 {
+    color: #58595b !important;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 300;  
+    text-align: justify;  
+    width: 80%;
+    margin: 0px auto;
+    font-family: 'Open Sans', sans-serif;
+    text-shadow: none !important;
+}
+
+.testimonials .carousel-caption h5 {
+    color: #58595b !important;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.testimonials .carousel-caption h5 span {
+    color: #f99d27 !important;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+.testimonials .carousel-control-next, .testimonials .carousel-control-prev {
+    padding-top: 20px;
+    color: #000000 !important;
+    font-family: 'Open Sans', sans-serif;
+    }
+
+.testimonials .carousel-control-next span, .testimonials .carousel-control-prev span {
+    padding-top: 20px;
+    color: #000000 !important;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+.testimonials a.carousel-control-next span, a.testimonials .carousel-control-prev span {
+    padding-top: 20px;
+    color: #000000 !important;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+.testimonials .testimonials-img {
+    width: 300px !important;
+    height: auto;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+.testimonials-comillas1 {
+    float: left;   
+    position: relative;
+    top:-70px;
+}
+
+.testimonials-comillas2 {
+    float: right;    
+}
+  
+.carousel-inner {
+    position: relative;
+    width: 100%;
+    overflow: visible !important;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+    
+  }
+
+@media (max-width: 960px) {
+
+    .testimonials .slidebox {
+        width: 100%;
+        height: 800px;
+        background-color: #ffffff;
+        font-family: 'Open Sans', sans-serif;
+        
+    }
+
+    .testimonials {
+        width: 100%;
+        height: 800px;
+        padding: 100px 0px 0px 0px;
+        margin-bottom: 0px;
+        background-color: #ffffff;
+        margin-top: 150px;
+        font-family: 'Open Sans', sans-serif;
+       
+        
+    }
+
+    .testimonials .carousel.slide {
+        width: 100%;
+        height: 600px;        
+        background-color: #ffffff;
+        overflow: visible !important;
+        margin-top: 100px;
+        font-family: 'Open Sans', sans-serif;
+        
+        
+    }
+
+    
+
+.carousel {
+    padding: 0px 0px 0px 0px;  
+    background-color: #ffffff; 
+    font-family: 'Open Sans', sans-serif;
+ 
+    
+}
+
+
+.testimonials .box-item {
+    display: inline-block;
+    width: 100%;
+    height: 500px;
+    text-align: center;
+    margin: 0px auto;
+    font-family: 'Open Sans', sans-serif;
+    
+    
+    
+}
+
+.testimonials .carousel-item {
+
+    position: relative; 
+    top: -80px; 
+    font-family: 'Open Sans', sans-serif;
+      
+}
+
+.testimonials .w-100 {
+    width: 100% !important;
+    height: 500px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.testimonials .d-block {
+    display: block!important;
+    height: 500px;
+    font-family: 'Open Sans', sans-serif;
+}
+.testimonials .carousel-caption {
+    position: absolute;
+    right: 15%;
+    top: 15%;
+    left: 15%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #000000 !important;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.testimonials h1 {
+  
+    font-weight: 700 !important;
+    line-height: 36px;
+    font-size: 36px;
+    margin-bottom: 24px;
+    font-family: 'Open Sans', sans-serif;
+    
+
+ }
+  
+.testimonials h1 span {
+    
+    font-weight: 300 !important;
+    line-height: 24px;
+    font-size: 24px;
+    padding-bottom: 20px;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+.testimonials .separator {
+    margin: 0px auto;
+    text-align: center;
+    width: 300px;
+    height: 3px;
+    background-color: #444444;
+    border-bottom: 2px solid #444444 ;
+    margin-bottom:24px;
+   }
+
+.testimonials .carousel-caption h4 {
+    color: #58595b !important;
+    font-size: 16px;
+    line-height: 18px;
+    font-weight: 300;  
+    text-align: left;  
+    width: 96%;
+    margin: 0px auto;
+    font-family: 'Open Sans', sans-serif;
+    text-shadow: none !important;
+}
+
+.testimonials .carousel-caption h5 {
+    color: #58595b !important;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.testimonials .carousel-caption h5 span {
+    color: #f99d27 !important;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+.testimonials .carousel-control-next, .testimonials .carousel-control-prev {
+    padding-top: 20px;
+    color: #000000 !important;
+}
+
+.testimonials .testimonials-img {
+    width: 300px !important;
+    height: auto;
+    
+}
+
+.testimonials-comillas1 {
+    float: left;   
+    position: relative;
+    top:-70px;
+}
+
+.testimonials-comillas2 {
+    float: right;    
+}
+
+.carousel-inner {
+    position: relative;
+    width: 100%;
+    overflow: visible !important;
+}
+
+  }
+
+  
+  
+  
+.testimonials .carousel-control-next, .testimonials .carousel-control-prev {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    z-index: 2 !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 15%;
+    color: #000000 !important;
+    text-align: center;
+    opacity: .5;
+    transition: opacity .15s ease;
+}
+
+.carousel-control-prev-icon {
+    background-image: url("https://image.flaticon.com/icons/png/128/860/860790.png") !important;
+
+       
+}
+
+
+.carousel-control-next-icon {
+    background-image: url("https://image.flaticon.com/icons/png/128/709/709586.png") !important;
+    
+    
+
+}
+
+ 
+a.carousel-control-next {
+    color: #000000 !important;    
+    
+
+}
+
+a.carousel-control-prev {
+    color: #000000 !important;    
+
+}

@@ -1,0 +1,10 @@
+.SlideShow {
+	width: 100%;
+	min-height: 400px;
+}
+
+section {
+	width: 100%;
+	min-height: 400px;
+	position: relative;
+}

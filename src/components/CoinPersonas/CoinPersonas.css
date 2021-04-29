@@ -1,0 +1,417 @@
+@media screen and (min-width: 960px){
+  
+  .form-container {
+    margin: 10px 10px 100px 10px;
+    width: 100%;
+    max-width: 450px;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.0), 0 7px 20px 0 rgba(0, 0, 0, 0.0);
+    position: relative;
+    border-radius: 10px;
+    height: 300px;
+    display: inline-block;
+    vertical-align: top;
+    grid-template-columns: 1fr 1fr;
+    padding: 0px !important;
+    
+    overflow: hidden;
+    font-family: 'Open Sans', sans-serif;
+
+   
+  }
+
+   
+  .close-btn {
+    position: absolute;
+    top: 2%;
+    right: 3%;
+    font-size: 1.5rem;
+    z-index: 1;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'Open Sans', sans-serif;
+
+  }
+  
+  .form-box-right {
+    
+    border-radius: 0px 0 0 0px;
+    position: relative;
+    
+    height: 1000px;  
+    font-family: 'Open Sans', sans-serif;
+    width: 100%;
+    padding-top: 100px;
+
+      
+  }
+  
+  .form-imgs {
+    width: 80%;
+    padding-top: 40px;
+  }
+
+  .form-img {
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .form-img-2 {
+    width: 60%;
+    height: 60%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .form-success {
+    text-align: center;
+    font-size: 24px;
+    margin-top: 80px;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+
+  }
+  
+  .form-content-left {
+    
+    border-radius: 0 10px 10px 0;
+    position: relative;
+    
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 100px;
+
+    
+  }
+  
+  .formss {   
+    
+    width: 90%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Open Sans', sans-serif;
+
+  }
+  
+  .formss h2 {
+    font-size: 48px;
+    line-height: 48px;
+    text-align: start;
+    width: 80%;
+    margin-bottom: 1rem;
+    color: #fff;
+    padding-top: 0px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+
+  }
+
+  .formss h1 {
+    font-size: 24px;
+    line-height: 24px;
+    text-align: start;
+    width: 80%;
+    margin-bottom: 1rem;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+
+  }
+  
+  .form-inputs {
+    margin-bottom: 0.5rem;
+    width: 80%;
+    font-family: 'Open Sans', sans-serif;
+
+  }
+  
+  .form-inputs p {
+    font-size: 0.8rem;
+    margin-top: 0.5rem;
+    color: #f00e0e;
+    font-family: 'Open Sans', sans-serif;
+
+  }
+  
+  .form-label {
+    display: inline-block;
+    font-size: 0.8rem;
+    margin-bottom: 6px;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+
+  }
+  
+  .form-input {
+    display: block;
+    padding-left: 10px;
+    outline: none;
+    border-radius: 2px;
+    height: 40px;
+    width: 100%;
+    border: none;
+    font-family: 'Open Sans', sans-serif;
+
+  }
+  
+  .form-input::placeholder {
+    color: #999999;
+    font-size: 12px;
+    font-family: 'Open Sans', sans-serif;
+
+  }
+  
+  .form-input-btn-co {
+    width: 300px;
+    height: auto;
+    margin-top: 40px;
+    border-radius: 2px;
+    background: none;
+    outline: none;
+    border: 3px solid #ffffff;
+    color: #fff;
+    font-size: 24px;
+    line-height: 24px;
+    padding: 20px 30px;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  
+  .form-input-btn:hover {
+    cursor: pointer;
+    background: linear-gradient(
+      90deg,
+      rgb(39, 143, 255) 0%,
+      rgb(12, 99, 250) 100%
+    );
+    transition: all 0.4s ease-out;
+  }
+  
+  .form-input-login {
+    font-size: 0.8rem;
+    margin-top: 10px;
+    color: #fff;
+    width: 80%;
+    text-align: center;
+  }
+  
+  .form-input-login a {
+    text-decoration: none;
+    color: #27cdff;
+    font-weight: 600;
+  }
+  
+} 
+
+@media screen and (max-width: 960px){
+
+  .form-container {
+    margin: 10px auto 60px auto;
+    width: 100%;
+    max-width: 1400px;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.0), 0 7px 20px 0 rgba(0, 0, 0, 0.0);
+    position: relative;
+    border-radius: 0px;
+    height: 950px;
+    display: inline-block;
+    grid-gap: 1rem;
+    grid-template-columns: 1fr 1fr;
+    padding: 0px 0px 0px 0px;
+    background-image: none !important;
+    background-color: #444444;
+    overflow: hidden;
+    font-family: 'Open Sans', sans-serif;
+   
+  }
+
+   
+  .close-btn {
+    position: absolute;
+    top: 2%;
+    right: 3%;
+    font-size: 1.5rem;
+    z-index: 1;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  .form-box-right {
+    
+    border-radius: 0 !important;
+    position: relative;
+    background-color: #f99d27;
+    height: 400px;   
+    font-family: 'Open Sans', sans-serif; 
+    
+  }
+  
+  .form-imgs {
+    width: 80%;
+    padding-top: 40px;
+  }
+
+  .form-img {
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .form-img-2 {
+    width: 60%;
+    height: 60%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .form-success {
+    text-align: center;
+    font-size: 24px;
+    margin-top: 80px;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  .form-content-left {
+    border-radius: 0 !important ;
+    position: relative;
+    background: #444444;
+    font-family: 'Open Sans', sans-serif;
+    height: 300px;     
+    margin-top: 160px;
+    margin-bottom: 90px;
+    
+    
+  }
+  
+  .formss {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 90%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  .formss h1 {
+    font-size: 36px;
+    line-height: 36px;
+    text-align: start;
+    width: 80%;
+    margin-bottom: 1rem;
+    color: #fff;
+    padding-top: 0px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+  }
+
+  .formss h1 span {
+    font-size: 24px;
+    line-height: 24px !important;
+    text-align: start;
+    width: 80%;
+    margin-bottom: 1rem;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+  }
+  
+  .form-inputs {
+    margin-bottom: 0.5rem;
+    width: 80%;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  .form-inputs p {
+    font-size: 0.8rem;
+    margin-top: 0.5rem;
+    color: #f00e0e;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  .form-label {
+    display: inline-block;
+    font-size: 0.8rem;
+    margin-bottom: 6px;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  .form-input {
+    display: block;
+    padding-left: 10px;
+    outline: none;
+    border-radius: 2px;
+    height: 40px;
+    width: 100%;
+    border: none;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  .form-input::placeholder {
+    color: #999999;
+    font-size: 12px;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  .form-input-btn {
+    width: 300px;
+    height: auto;
+    margin-top: 40px;
+    border-radius: 2px;
+    background: none;
+    outline: none;
+    border: 3px solid #ffffff;
+    color: #fff;
+    font-size: 24px;
+    line-height: 24px;
+    padding: 20px 30px;
+    font-family: 'Open Sans', sans-serif;
+  }
+
+ 
+  .form-input-btn:hover {
+    cursor: pointer;
+    background: linear-gradient(
+      90deg,
+      rgb(39, 143, 255) 0%,
+      rgb(12, 99, 250) 100%
+    );
+    transition: all 0.4s ease-out;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  .form-input-login {
+    font-size: 0.8rem;
+    margin-top: 10px;
+    color: #fff;
+    width: 80%;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  .form-input-login a {
+    text-decoration: none;
+    color: #27cdff;
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+  }
+
+}
