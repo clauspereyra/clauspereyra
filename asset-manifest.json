@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/coin-institucional/static/css/main.98232d7c.chunk.css",
-    "main.js": "/coin-institucional/static/js/main.47262dff.chunk.js",
-    "main.js.map": "/coin-institucional/static/js/main.47262dff.chunk.js.map",
+    "main.js": "/coin-institucional/static/js/main.6b5f1856.chunk.js",
+    "main.js.map": "/coin-institucional/static/js/main.6b5f1856.chunk.js.map",
     "runtime-main.js": "/coin-institucional/static/js/runtime-main.52b6b291.js",
     "runtime-main.js.map": "/coin-institucional/static/js/runtime-main.52b6b291.js.map",
     "static/css/2.837e5682.chunk.css": "/coin-institucional/static/css/2.837e5682.chunk.css",
@@ -54,6 +54,6 @@
     "static/css/2.837e5682.chunk.css",
     "static/js/2.cc25ec3c.chunk.js",
     "static/css/main.98232d7c.chunk.css",
-    "static/js/main.47262dff.chunk.js"
+    "static/js/main.6b5f1856.chunk.js"
   ]
 }
